@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Naveenprasad/Documents/Scaler/MLops/8-mlops-experiment-tracking/mlruns/958311077416841683/e61c692550fa43c7ac04c322e69e5a7a/artifacts
+end_time: 1745920301538
+entry_point_name: ''
+experiment_id: '958311077416841683'
+lifecycle_stage: active
+run_id: e61c692550fa43c7ac04c322e69e5a7a
+run_name: defiant-mink-789
+run_uuid: e61c692550fa43c7ac04c322e69e5a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745920284387
+status: 3
+tags: []
+user_id: Naveenprasad

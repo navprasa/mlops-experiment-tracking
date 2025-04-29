@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Naveenprasad/Documents/Scaler/MLops/8-mlops-experiment-tracking/mlruns/958311077416841683/43fa50c174014252b0367b136a242aa4/artifacts
+end_time: 1745920570818
+entry_point_name: ''
+experiment_id: '958311077416841683'
+lifecycle_stage: active
+run_id: 43fa50c174014252b0367b136a242aa4
+run_name: hyperparameter_run_2
+run_uuid: 43fa50c174014252b0367b136a242aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745920560299
+status: 3
+tags: []
+user_id: Naveenprasad

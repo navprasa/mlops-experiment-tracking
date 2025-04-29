@@ -1,0 +1,64 @@
+{
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:495599734956:task-definition/task-flask-cd-april-2025:1",
+    "containerDefinitions": [
+        {
+            "name": "container-cd-2025",
+            "image": "495599734956.dkr.ecr.us-east-1.amazonaws.com/flask-app-cd:latest",
+            "cpu": 0,
+            "portMappings": [
+                {
+                    "name": "container-cd-2025-8000-tcp",
+                    "containerPort": 8000,
+                    "hostPort": 8000,
+                    "protocol": "tcp",
+                    "appProtocol": "http"
+                }
+            ],
+            "essential": true,
+            "environment": [],
+            "environmentFiles": [],
+            "mountPoints": [],
+            "volumesFrom": [],
+            "ulimits": [],
+            "systemControls": []
+        }
+    ],
+    "family": "task-flask-cd-april-2025",
+    "executionRoleArn": "arn:aws:iam::495599734956:role/ecsTaskExecutionRole",
+    "networkMode": "awsvpc",
+    "revision": 1,
+    "volumes": [],
+    "status": "ACTIVE",
+    "requiresAttributes": [
+        {
+            "name": "com.amazonaws.ecs.capability.ecr-auth"
+        },
+        {
+            "name": "ecs.capability.execution-role-ecr-pull"
+        },
+        {
+            "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+        },
+        {
+            "name": "ecs.capability.task-eni"
+        }
+    ],
+    "placementConstraints": [],
+    "compatibilities": [
+        "EC2",
+        "FARGATE"
+    ],
+    "requiresCompatibilities": [
+        "FARGATE"
+    ],
+    "cpu": "1024",
+    "memory": "3072",
+    "runtimePlatform": {
+        "cpuArchitecture": "X86_64",
+        "operatingSystemFamily": "LINUX"
+    },
+    "registeredAt": "2025-04-28T12:35:40.038Z",
+    "registeredBy": "arn:aws:iam::495599734956:user/devops_user_4562426_32057",
+    "enableFaultInjection": false,
+    "tags": []
+}

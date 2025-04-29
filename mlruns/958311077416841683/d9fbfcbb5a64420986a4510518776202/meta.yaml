@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Naveenprasad/Documents/Scaler/MLops/8-mlops-experiment-tracking/mlruns/958311077416841683/d9fbfcbb5a64420986a4510518776202/artifacts
+end_time: 1745920539629
+entry_point_name: ''
+experiment_id: '958311077416841683'
+lifecycle_stage: active
+run_id: d9fbfcbb5a64420986a4510518776202
+run_name: glamorous-shark-915
+run_uuid: d9fbfcbb5a64420986a4510518776202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745920539559
+status: 4
+tags: []
+user_id: Naveenprasad

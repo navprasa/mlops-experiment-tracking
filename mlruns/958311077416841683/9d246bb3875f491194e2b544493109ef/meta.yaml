@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Naveenprasad/Documents/Scaler/MLops/8-mlops-experiment-tracking/mlruns/958311077416841683/9d246bb3875f491194e2b544493109ef/artifacts
+end_time: 1745921138531
+entry_point_name: ''
+experiment_id: '958311077416841683'
+lifecycle_stage: active
+run_id: 9d246bb3875f491194e2b544493109ef
+run_name: hilarious-seal-141
+run_uuid: 9d246bb3875f491194e2b544493109ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745921138468
+status: 4
+tags: []
+user_id: Naveenprasad

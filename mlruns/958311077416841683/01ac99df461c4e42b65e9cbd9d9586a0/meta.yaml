@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Naveenprasad/Documents/Scaler/MLops/8-mlops-experiment-tracking/mlruns/958311077416841683/01ac99df461c4e42b65e9cbd9d9586a0/artifacts
+end_time: 1745920180561
+entry_point_name: ''
+experiment_id: '958311077416841683'
+lifecycle_stage: active
+run_id: 01ac99df461c4e42b65e9cbd9d9586a0
+run_name: unruly-donkey-923
+run_uuid: 01ac99df461c4e42b65e9cbd9d9586a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745911997244
+status: 3
+tags: []
+user_id: Naveenprasad
