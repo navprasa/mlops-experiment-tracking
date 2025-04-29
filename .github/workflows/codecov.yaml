@@ -3,7 +3,8 @@ name: Python Code Coverage
 on: ['push', 'pull_request']
 
 jobs:
-    test: ubuntu-latest
+    test: 
+    runs-on: ubuntu-latest
     steps: 
         - name: Check out
           uses: actions/checkout@v3
