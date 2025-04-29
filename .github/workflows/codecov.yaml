@@ -16,9 +16,11 @@ jobs:
         - name: Install Dependencies   
           run: |
             pip install --upgrade pip
+            python -m pip install --upgrade pip
+            pip install -r artefacts/requirements.txt
             pip install pytest coverage
 
-        - name: Run Test
+        - name: Run Tests
           run: |
             coverage run -m pytest
             coverage xml
